@@ -1,4 +1,10 @@
 .container {
-    display: flex
-
+    background-color: rgba(162, 113, 207, 0.691);
+ height: 650px;
+ display: flex;
+}
+.item{
+    background-color: rgba(122, 230, 194, 0.787);
+    display: flex;
+    height: 100px;
 }

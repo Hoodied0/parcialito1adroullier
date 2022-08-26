@@ -2,9 +2,13 @@
     background-color: rgba(162, 113, 207, 0.691);
  height: 650px;
  display: flex;
+ margin: 15px;
+ 
 }
 .item{
     background-color: rgba(122, 230, 194, 0.787);
     display: flex;
     height: 100px;
+    margin: 15px;
+    
 }
